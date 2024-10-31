@@ -5,3 +5,6 @@ Markdown<3.6
 requests
 bleach
 tzdata
+martor
+gunicorn
+flake8
